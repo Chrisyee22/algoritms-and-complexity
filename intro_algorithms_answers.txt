@@ -1,0 +1,46 @@
+Calculating a tip:
+	var total = 0
+	var service = "good"	
+	
+	
+	Def tip_calc(total, service)
+		total = 0
+		if service = "good"
+			return total * 0.15
+		elsif service = "ok"
+			return total * 0.10
+		else 
+			return "If it's raining bring an umbrella"
+		end
+	end 
+
+Decide what to eat:
+	 
+	def eat
+	   if hungry = "no"
+		return "Go back to work"
+	   else open fridge
+		if pizza = true
+			eat pizza
+		else call pizza_place
+		end
+	   end 
+
+
+Using vending machine
+
+Def vending
+
+     Input money into machine
+	if bill is crumpled 
+		get new bill
+	else
+	  select item 
+		if item gets stuck
+			shake machine
+		else
+			take item
+		end
+	end
+
+End
