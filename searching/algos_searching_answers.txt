@@ -1,0 +1,13 @@
+1.It would take 7 iterations to find G using a linear search.
+
+2.It would take 2 iterations to find G using binary search.
+
+3. Fib(9) = 0 + 1 + 1 + 2 + 3 + 5 + 8 + 13 + 21 + 34  
+   fib(10) =  21+ 34 = 55 
+   fib(11) = 34 + 55 = 89
+   fib(12) = 55 + 89 = 144
+
+
+1. I would use a linear search with iteration. I would use this combination since linear would be more accurate since our collection is unordered, and iteration due to the amount of times it would have to be run it would not place such a demand on memory or stack space. 
+
+2. For this problem I would use binary and a recursive search. Binary would be used since the list is sorted and can be continually cut in half until the correct item is found and recursive because the code is more intuitive and there would be less stress on the memory due to the use of binary search.
