@@ -1,6 +1,6 @@
 1.It would take 7 iterations to find G using a linear search.
 
-2.It would take 2 iterations to find G using binary search.
+2.It would take 3 iterations to find G using binary search.
 
 3. Fib(9) = 0 + 1 + 1 + 2 + 3 + 5 + 8 + 13 + 21 + 34  
    fib(10) =  21+ 34 = 55 
