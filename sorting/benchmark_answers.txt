@@ -1,0 +1,6 @@
+   user     system      total        real
+quick_sort  0.000000   0.000000   0.000000 (  0.000004)
+heap_sort  0.000000   0.000000   0.000000 (  0.000063)
+bucket_sort  0.000000   0.000000   0.000000 (  0.000237)
+
+Because heap sort and bucket sort have more steps than quick sort their represented time is greater. If you look at the algorithms there are multiple methods being called on both heap and bucket sort which leads to the slower times. 
