@@ -4,7 +4,6 @@ Calculating a tip:
 	
 	
 	Def tip_calc(total, service)
-		total = 0
 		if service = "good"
 			return total * 0.15
 		elsif service = "ok"
