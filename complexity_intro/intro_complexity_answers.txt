@@ -1,0 +1,17 @@
+1. An algorithm that has O(1) is like race car, where O(2^n) would be a moped.
+2.The best case scenario is that the item that is being searched for is in the mid location of the array. 
+3.Worst case would be that the item is not in the array.
+4. The bounded case scenario will be the average of the worst case scenario and the best case. This would place the item we are searching for on the half we are searching through. 
+5.https://docs.google.com/spreadsheets/d/1mh0GRtuiYkTD063kUqc9qEr1U5DmRgXnm-QDL7XqsMQ/edit#gid=0
+6. As n approaches infinity the limit is positive infinity.
+7. The big-O would be O(n^2)
+8. def iteration
+      array.each do |value|
+	p #{value}
+      End
+
+   end
+9.https://docs.google.com/spreadsheets/d/1mh0GRtuiYkTD063kUqc9qEr1U5DmRgXnm-QDL7XqsMQ/edit#gid=0
+10. Big-O = O(n^2)
+11. Big-Ω = O(1)
+12. Big-Θ = O(n)
