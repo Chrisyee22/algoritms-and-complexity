@@ -1,0 +1,11 @@
+1. O(1) Constant time since the time to execute this function will be the same regardless of n.
+
+2. O(n) Linear time with this function, with largest set to 0 any item equal or larger than it will execute largest with the same rate depending on the size of the collection.
+
+3. O(n) Linear since one operation performed per each item in the collection. Loops <= collection dimensions makes it linear. 
+
+4. O(2^n) Exponential since n is called twice.
+
+5. O(n) linear time. This function depends upon the size of n. So for every increase in n the time it takes to execute the algorithm increases at the same rate.
+
+6.O(n log n) Loglinear because ss the collection size grows, the number of recursive calls grows. 
