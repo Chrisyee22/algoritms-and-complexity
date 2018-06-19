@@ -1,0 +1,15 @@
+complexity one array one  0.020000   0.000000   0.020000 (  0.015499)
+complexity one array two  0.290000   0.000000   0.290000 (  0.296445)
+complexity one array three  1.170000   0.010000   1.180000 (  1.170491)
+complexity two array one  0.000000   0.000000   0.000000 (  0.000015)
+complexity two array two  0.000000   0.000000   0.000000 (  0.000040)
+complexity two array three  0.000000   0.000000   0.000000 (  0.000116)
+complexity three array one  0.000000   0.000000   0.000000 (  0.000009)
+complexity three array two  0.000000   0.000000   0.000000 (  0.000066)
+complexity three array three  0.000000   0.000000   0.000000 (  0.000065)
+
+1.Complexity for the first one is O(n^2). O(n) is the combining of the arrays then O(n) for the sorting. 
+
+2.The second would be O(nlog(n)) since it is merge sort. 
+
+3. Insertion sort is O(n) since  O(n) is the combining and then O(1) for the insertion method since it's one item at a time. 
