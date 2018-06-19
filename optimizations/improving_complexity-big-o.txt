@@ -12,4 +12,4 @@ complexity three array three  0.000000   0.000000   0.000000 (  0.000065)
 
 2.The second would be O(nlog(n)) since it is merge sort. 
 
-3. Insertion sort is O(n) since  O(n) is the combining and then O(1) for the insertion method since it's one item at a time. 
+3. Insertion sort is O(n^2) since  for each element in the data structure we perform n actions and then n actions again for the next element. 
